@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import sys
 
 # ---- Config ----
-Entrez.email = "goodnessowunmi@gmail.com"  
+Entrez.email = "xxxxxxxxxx@gmail.com"  
 ACCESSION = "NM_000518.5"  # HBB (human beta-globin) mRNA
 
 def fetch_fasta(accession: str):
